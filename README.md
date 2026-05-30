@@ -1,2 +1,0 @@
-# RocketLeagueMC
-Texture pack
